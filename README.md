@@ -1,2 +1,2 @@
 # Cash-Performance-Dashboard
-Interactive Power BI dashboard for monitoring branch cash shortages, tracking CBN deposits, and managing regional risk.
+Built during my role at a financial services organization, this interactive Power BI dashboard monitors branch cash shortages, tracks CBN deposits, and manages regional risk.
